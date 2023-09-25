@@ -1,0 +1,15 @@
+
+
+body {
+  background-color: #eee;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="search"] {
+  height: 42px;
+  font-size: 1rem;
+  padding-inline: 12px;
+  border-radius: 100px;
+  border: 1px solid black;
+}
